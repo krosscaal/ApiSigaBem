@@ -18,3 +18,12 @@ Para realizar cálculo de frete e persistencia no banco deve-se especificar peso
 **http://localhost:8080/Api/{peso}/{cepOrigem}/{cepDestino}/{nomeDestinatario}**
 
 Para documentaçao via Swagger **http://localhost:8080/swagger-ui.html#/**
+
+
+Aceeso ao BD **http://localhost:8080/h2-console/**
+
+JDBC URL: jdbc:h2:mem:testdb
+
+User Name:api
+
+Password: sem senha
