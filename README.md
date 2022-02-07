@@ -1,9 +1,14 @@
 # ApiSigaBem
 ##Projeto Api Rest em Java
+
 ##IDE usada Intellij IDEA
+
 ##JAVA 11
+
 ##Spring Boot
+
 ##Banco de dados H2
+
 ##Swagger
 
 O projeto usa banco de dados H2 que é inicializado em memoria
