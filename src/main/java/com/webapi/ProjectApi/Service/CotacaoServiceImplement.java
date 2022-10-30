@@ -13,10 +13,6 @@ public class CotacaoServiceImplement implements CotacaoService{
   @Autowired
   private CotacaoRepository cotacaoRepository;
 
-  public CotacaoServiceImplement(CotacaoRepository cotacaoRepository){
-    this.cotacaoRepository=cotacaoRepository;
-  }
-
   @Override
   public List<Cotacao> findAll() {
     return this.cotacaoRepository.findAll();

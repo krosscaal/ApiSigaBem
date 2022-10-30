@@ -1,15 +1,15 @@
 # ApiSigaBem
-##Projeto Api Rest em Java
+## Projeto Api Rest em Java
 
-##IDE usada Intellij IDEA
+## IDE usada Intellij IDEA
 
-##JAVA 11
+## JAVA 11
 
-##Spring Boot
+## Spring Boot
 
-##Banco de dados H2
+## Banco de dados H2
 
-##Swagger
+## Swagger
 
 O projeto usa banco de dados H2 que é inicializado em memoria
 a consulta de todos os registros na tabela podem ser feitas via browser em *http://localhost:8080/Api*
@@ -22,8 +22,8 @@ Para documentaçao via Swagger **http://localhost:8080/swagger-ui.html#/**
 
 Aceeso ao BD **http://localhost:8080/h2-console/**
 
-JDBC URL: jdbc:h2:mem:testdb
+JDBC URL: **jdbc:h2:mem:testdb**
 
-User Name:api
+User Name: **api**
 
-Password: sem senha
+Password: sem senha **(deixe em branco)**
